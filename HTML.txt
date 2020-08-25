@@ -1,0 +1,5 @@
+HTML
+
+Se supone que es un archivo html (index).
+Head
+Body

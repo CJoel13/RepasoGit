@@ -1,0 +1,5 @@
+CSS
+
+Se supone que es archivo css.
+Estilo1
+Estilo2
