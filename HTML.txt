@@ -1,7 +1,7 @@
 HTML
 
 Modificación en master
-Modificación 2 en master
+Modificación 2 en master aqui también hay confl.
 
 Se supone que es un archivo html (index).
 Head
