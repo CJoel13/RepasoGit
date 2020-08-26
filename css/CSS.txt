@@ -1,6 +1,7 @@
 CSS
 
 Modificación en rama master
+Modificación 2 en master
 
 Se supone que es archivo css.
 Estilo1

@@ -1,6 +1,7 @@
 HTML
 
 Modificación en master
+Modificación 2 en master
 
 Se supone que es un archivo html (index).
 Head
